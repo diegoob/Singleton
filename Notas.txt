@@ -1,0 +1,5 @@
+Este patrón permite tener una única instancia de un objeto durante toda la ejecución.
+
+NOTAS:
+	- Es mejor usar este patrón que clases con métodos estáticos ya que si a futuro se quiere añadir funcionalidad se puede hacer herencia.
+	- Además con este patrón se conserva la orientación a objetos, haciendo una clase estática el código tiende más a programación estructurada que a programación orientada a objetos.
